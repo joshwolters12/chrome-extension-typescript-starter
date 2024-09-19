@@ -42,7 +42,7 @@ const Popup = () => {
         onClick={() => setCount(count + 1)}
         style={{ marginRight: "5px" }}
       >
-        count up
+        count up!!
       </button>
       <button onClick={changeBackground}>change background</button>
     </>
